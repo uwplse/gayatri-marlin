@@ -5,5 +5,5 @@ on parallel / simultaneous dual extrusion. Details are in our SFF 2021 [paper](h
 
 The files that have changed:
 - `Configuration.h, Line 573`
-- `Marlin_main.cpp, Line 6480 - 6492`
+- `Marlin_main.cpp, Line 6476 - 6498`
 - `Configuration_adv.h, Line 331`
